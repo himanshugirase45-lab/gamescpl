@@ -1,0 +1,34 @@
+{
+    "levels": {
+        "1": {
+            "unlocked": true,
+            "score": 0,
+            "stars": 0
+        },
+        "2": {
+            "unlocked": false,
+            "score": 0,
+            "stars": 0
+        },
+        "3": {
+            "unlocked": false,
+            "score": 0,
+            "stars": 0
+        },
+        "4": {
+            "unlocked": false,
+            "score": 0,
+            "stars": 0
+        },
+        "5": {
+            "unlocked": false,
+            "score": 0,
+            "stars": 0
+        }
+    },
+    "settings": {
+        "volume": 1.0,
+        "mute": false,
+        "fullscreen": false
+    }
+}

@@ -1,0 +1,32 @@
+import pygame
+
+# Screen
+WIDTH = 1280
+HEIGHT = 720
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+SKY_BLUE = (135, 206, 235)
+GROUND_GREEN = (34, 139, 34)
+WOOD_COLOR = (139, 69, 19)
+STONE_COLOR = (128, 128, 128)
+GLASS_COLOR = (173, 216, 230, 150)
+RED = (220, 20, 60)
+YELLOW = (255, 215, 0)
+DARK_GRAY = (64, 64, 64)
+HUD_TEXT_COLOR = (255, 255, 255)
+
+# Physics
+GRAVITY = (0, 900)
+PHYSICS_STEPS = 5
+
+# Slingshot
+SLING_X = 250
+SLING_Y = HEIGHT - 200
+SLING_MAX_PULL = 150
+LAUNCH_POWER_MULTIPLIER = 8.0
+
+# Game Settings
+PIXELS_PER_METER = 50.0  # For physics view
